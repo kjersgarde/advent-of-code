@@ -1,2 +1,2 @@
 # advent-of-code
-Advent of Code Challenges
+This is a repository for any Advent of Code Challenges that I need to code!
